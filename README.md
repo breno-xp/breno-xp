@@ -24,13 +24,9 @@
     <span>🖥️ Técnico em Informática para Internet pelo Instituto Federal do Rio Grande do Sul (IFRS) </span>
 </p>
 
-<p>
-    <h3>Entre em contato!</h3>
-    <a href = "mailto:brexp14@gmail.com">
-        <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href = "https://www.linkedin.com/in/breno-xavier-de-paula-42639935a/">
-        <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</p>
+<h3 style="font-size: '2rem'">Entre em contato!</h3>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brexp14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-xavier-de-paula-42639935a/)
+    
 
