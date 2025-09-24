@@ -1,16 +1,36 @@
-## Hi there 👋
+<h2 >Olá, bem vindo(a) ao meu portfólio ✨</h2>
+<p>
+    <img 
+        alt = "Github stats"
+        height = "200px"
+        src = "https://github-readme-stats.vercel.app/api?username=breno-xp&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+    />
+    <img
+        alt = "Used languages"
+        height = "200px"
+        src = "https://github-readme-stats.vercel.app/api/top-langs/?username=breno-xp&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+    />
+</p>
 
-<!--
-**breno-xp/breno-xp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+    <!-- <h3>Linguagens e ferramentas:</h3> -->
+    <img src = "https://skillicons.dev/icons?i=html,css,js,react,postgres,mysql,nodejs,python,pytorch"/>
+</p>
 
-Here are some ideas to get you started:
+<p>
+    <h3>Formação profissional:</h3>
+    <span>🌐 Estudante em bacharelado de Sistemas de Informação na Universidade Federal do Rio Grande (FURG)</span>
+    <br>
+    <span>🖥️ Técnico em Informática para Internet pelo Instituto Federal do Rio Grande do Sul (IFRS) </span>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <h3>Entre em contato!</h3>
+    <a href = "mailto:brexp14@gmail.com">
+        <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href = "https://www.linkedin.com/in/breno-xavier-de-paula-42639935a/">
+        <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</p>
+
