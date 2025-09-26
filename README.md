@@ -14,7 +14,7 @@
 
 <p>
     <!-- <h3>Linguagens e ferramentas:</h3> -->
-    <img src = "https://skillicons.dev/icons?i=html,css,js,react,postgres,mysql,nodejs,python,pytorch"/>
+    <img src = "https://skillicons.dev/icons?i=html,css,js,react,postgres,mysql,nodejs,python,pytorch,git"/>
 </p>
 
 <p>
